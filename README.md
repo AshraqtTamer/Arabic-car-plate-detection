@@ -61,11 +61,5 @@ The notebook includes test results on various Egyptian license plate styles, inc
   <img width="1404" height="746" alt="image" src="https://github.com/user-attachments/assets/83e4b1af-d8e1-4af7-afee-e05f34ff0fed" />
 
 
-## 🤝 Contributing
 
-Contributions, issues, and feature requests are welcome. Feel free to check the issues page if you want to contribute.
-
----
-
-**Author:** [Ashraqt Tamer]
 
