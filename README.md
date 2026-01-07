@@ -62,5 +62,5 @@ Contributions, issues, and feature requests are welcome. Feel free to check the 
 
 ---
 
-**Author:** [Your Name/Handle]
-**License:** [Optional: MIT/Apache]
+**Author:** [Ashraqt Tamer]
+
