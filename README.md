@@ -55,6 +55,11 @@ The notebook includes test results on various Egyptian license plate styles, inc
 * Private vehicle plates.
 * Truck license plates.
 * Older generation plates.
+* Egyptian Private Vehicle Plate
+  This image features a standard modern Egyptian license plate for private cars.
+
+  <img width="1404" height="746" alt="image" src="https://github.com/user-attachments/assets/83e4b1af-d8e1-4af7-afee-e05f34ff0fed" />
+
 
 ## 🤝 Contributing
 
